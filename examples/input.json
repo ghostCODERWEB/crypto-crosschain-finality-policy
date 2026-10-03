@@ -1,0 +1,19 @@
+{
+  "now": 100,
+  "chains": [
+    {
+      "chain": "a",
+      "head": 20,
+      "confirmations": 5,
+      "challenge_seconds": 30
+    }
+  ],
+  "transfers": [
+    {
+      "id": "t",
+      "chain": "a",
+      "height": 16,
+      "submitted_at": 60
+    }
+  ]
+}

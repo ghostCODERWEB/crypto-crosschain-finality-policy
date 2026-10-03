@@ -1,0 +1,12 @@
+{
+  "ready_count": 1,
+  "transfers": [
+    {
+      "blocks_remaining": 0,
+      "confirmations": 5,
+      "id": "t",
+      "ready": true,
+      "seconds_remaining": 0
+    }
+  ]
+}
